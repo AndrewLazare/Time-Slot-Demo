@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateSlotDemo", "DateSlotDemo\DateSlotDemo.csproj", "{71D86742-4F03-44FA-995E-B53A84405C2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71D86742-4F03-44FA-995E-B53A84405C2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D86742-4F03-44FA-995E-B53A84405C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D86742-4F03-44FA-995E-B53A84405C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D86742-4F03-44FA-995E-B53A84405C2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBCD83D8-2208-4DD3-95E4-3911587117F2}
+	EndGlobalSection
+EndGlobal
